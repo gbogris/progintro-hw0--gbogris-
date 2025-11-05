@@ -1,5 +1,19 @@
 https://gbogris.github.io/
 
 byte0: you_just_mastered_changing_directories
-used the cd and ls command several times until i got what i wanted
-
+	used the cd and ls command several times until i got what i wanted
+byte1: by using the command 'man'
+byte2: grep_and_you_will_find
+	i used the command grep and i typed (grep "will find" shakespeare.txt) so that i can find the answer. 
+byte3: old word: players new word: programmers 
+	i used the command  (diff "shakespeare.txt" "shakespeare.modified.txt") so that i can see the differences of the 2 files.
+byte4: the_triwizard_cup_is_now_yours
+	i did not know how to use properly the find command(i used the man find command) so i searched for it!
+byte5: sdi2500136_1760980685_-452811896_94_71_4_38_14907_22
+	So i noticed that i could not gcc the file right away. For that reason, I entered the tmp directory i made a new file there and then i used the cp command.Afterwards, the compilation was easily made.
+byte6: unzipping_is_a_piece_of_cake
+	I did the same think that i did in byte5. I went to the tmp directory, I made a new file and moved all of byte6.zip's info to the new file. At the end, i just unziped the file and it worked.   
+byte7: tar_jokes_cant_stick
+	I used again the same logic( moved to tmp) because it would not let me open byte7.txt. So after using the command tar --usage i used the right parametrs so that i can obtain the answer.
+byte8: cant_keep_secrets_from_you
+	
