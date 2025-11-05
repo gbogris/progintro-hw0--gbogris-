@@ -16,4 +16,5 @@ byte6: unzipping_is_a_piece_of_cake
 byte7: tar_jokes_cant_stick
 	I used again the same logic( moved to tmp) because it would not let me open byte7.txt. So after using the command tar --usage i used the right parametrs so that i can obtain the answer.
 byte8: cant_keep_secrets_from_you
-	
+	firstly, i used the command xxd and i noticed the cant_keep_secrets_from_you message and 3 dots. Afterwards, I used the pico command and I saw the answer and 3 characters before it. I do not think that the characters afect the result.	
+byte 9: 
