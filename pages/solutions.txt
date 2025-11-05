@@ -1,2 +1,5 @@
 https://gbogris.github.io/
 
+byte0: you_just_mastered_changing_directories
+used the cd and ls command several times until i got what i wanted
+
