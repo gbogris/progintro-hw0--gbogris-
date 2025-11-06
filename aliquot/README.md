@@ -1,4 +1,4 @@
-My first observation was that the programm had to work with integers less than 1e15. I decided that the best way to solve this problem was by connecting these problems and find a solution that can work for both of them. The same thing applies for sum. The using of long long for both sum and n was mandatory since the numbers reach a very high seiling. 
+My first observation was that the programm had to work with integers less than 1e15. I decided that the best way to solve this problem was by connecting these problems and find a solution that can work for both of them. The same thing applies for sum. The usage of long long for both sum and n was mandatory since the numbers reach a very high seiling. 
  
 
 My second observation, was that % operator did not work for double numbers. For taht reason, I switched to (long long)n % i, instead of (double) n % i.
