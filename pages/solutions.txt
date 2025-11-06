@@ -19,3 +19,6 @@ byte8: cant_keep_secrets_from_you
 	firstly, i used the command xxd and i noticed the cant_keep_secrets_from_you message and 3 dots. Afterwards, I used the pico command and I saw the answer and 3 characters before it. I do not think that the characters afect the result.	
 byte 9: filepaths_are_handy 
 	I knew that i had to use nano, if I wanted to open the file. So i got the idea of using ~/- from the info that I got, when i used the command 'man nano'. 
+byte 10: Althea
+	I used the command 'sort -d names.txt | head' so that i can find answers. But this command only allowed me to view the first 10 names. So i used man head and i found the -n option. Afterwards, I made some changes and finally i got my answer. 
+byte 11: 
