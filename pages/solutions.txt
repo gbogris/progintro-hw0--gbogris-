@@ -23,3 +23,6 @@ byte 10: Althea
 	I used the command 'sort -d names.txt | head' so that i can find answers. But this command only allowed me to view the first 10 names. So i used man head and i found the -n option. Afterwards, I made some changes and finally i got my answer. 
 byte 11: Peta which is used 45 times
 	Firstly, I used the commands 'man sort' and 'man uniq' to find out the answer. After many failed attemps,( I tried to find the right combo between uniq -c and sort) I came up with the solution.
+byte 12: which_command_is_the_best
+	I did not follow the instructions in this one. I just used ls -alh and found out that there is a hidden directory named .cache. After finding it, tuxsay was easily found.
+byte13: 
