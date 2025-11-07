@@ -1,21 +1,3 @@
 
-
 byte0: you_just_mastered_changing_directories
-byte1: by using the command 'man'
-byte2: grep_and_you_will_find 
-byte3: old word: players new word: programmers 
-byte4: the_triwizard_cup_is_now_yours
-byte5: sdi2500136_1760980685_-452811896_94_71_4_38_14907_22
-byte6: unzipping_is_a_piece_of_cake   
-byte7: tar_jokes_cant_stick
-byte8: cant_keep_secrets_from_you
-byte 9: filepaths_are_handy 
-byte 10: Althea
-byte 11: Peta which is used 45 times
-byte 12: which_command_is_the_best
-byte13: Add a brief description for the repo.
-More to be added later on.
-
-Created my README file.
-Reminder to self: descriptive_git_commit_messages_are_great so where are the commit messages?
 byte14: No he is not right at all. If someone used the command git log -p he could read all the information that is now removed(his novella included). The removed text is red coloured and the information that is green coloured, is all the info that the user added to the file.  
