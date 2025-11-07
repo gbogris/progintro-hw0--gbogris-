@@ -2,3 +2,4 @@ byte0: you_just_mastered_changing_directories
 byte1: by using the command 'man'
 byte2: grep_and_you_will_find
 byte3: old word: players new word: programmers
+byte4: the_triwizard_cup_is_now_yours
