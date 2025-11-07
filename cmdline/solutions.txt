@@ -19,3 +19,4 @@ Add a brief description for the repo.
 Created my README file.
 
     Reminder to self: descriptive_git_commit_messages_are_great
+byte14: No, he is not correct at all. If we type git log -p, we can see all the information the user has erased (including their novella). Deleted information is shown in red, while added information (which has not been deleted) is shown in green.
